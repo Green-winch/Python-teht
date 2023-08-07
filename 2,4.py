@@ -1,3 +1,4 @@
+#2.4 Kirjoita ohjelma, jossa on kaksi muuttujaa, joiden arvoina on itse valitsemasi numerot. Kasvata molempia lukuja niiden summalla. Kokeile esimerkin arvoilla, jolloin sinun tulisi saada esimerkin mukainen lopputulos.
 luku1 = 6
 luku2 = 18
 print(luku1)
