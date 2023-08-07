@@ -1,3 +1,4 @@
+#1.3 Kirjoita ohjelma, jossa lasketaan kolmen muuttujan keskiarvo. Tulosta lopputulos.
 luku1 = input("Anna luku:")
 luku1 = int(luku1)
 luku2 = input("Anna toinen luku:")
